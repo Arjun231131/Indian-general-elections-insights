@@ -16,7 +16,7 @@
 ## How to Use / Setup Steps
 
 1. **Clone the Repository**
-git clone https://github.com/saiyam-jain0/Indian-general-elections-insights.git
+git clone[https://github.com/Arjun231131/Indian-general-elections-insights]
 cd Indian-general-elections-insights
 
 2. **Set Up Data**
